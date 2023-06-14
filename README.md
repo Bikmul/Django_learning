@@ -1,1 +1,1 @@
-# Django_learning
+# Репозиторий для Django
